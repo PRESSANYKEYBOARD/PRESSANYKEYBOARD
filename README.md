@@ -1,10 +1,16 @@
 <div align=center>
+	<img src="https://user-images.githubusercontent.com/121652394/222773472-1dcda0a4-1c08-47cc-8dde-6ac811e586d1.JPG">
+	2019.07.04 大宮 鉄道博物館
+	<br>東北新幹線 E5系 はやぶさ<br>
+</div>
+<br>
+<div align=center>
       <img src=https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MADE%20IN%20DREAM&fontSize=75 />
       <img src=https://cldup.com/dTxpPi9lDf.thumb.png />
 </div>
 <br>
 <div align=center>
-	    <p>✨ Study ✨</p>
+	    <p>🌱 Study 🌱</p>
 </div>
 <div align="center">
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
