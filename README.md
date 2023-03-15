@@ -56,6 +56,9 @@
       <a href="https://www.playstation.com/ko-kr/ps5/ps5-entertainment/?smcid=pdc%3Ako-kr%3Alinking-accounts%3Aprimary%20nav%3Amsg-services%3Aps5">
               <img src="https://img.shields.io/badge/PlayStation 5-003791?style=flat&logo=Micro.blog&logoColor=white" />
       </a>
+      <a href="https://www.nintendo.co.kr/main.php">  
+	      <img src="https://img.shields.io/badge/Nintendo Switch-E60012?style=flat&logo=Micro.blog&logoColor=white" />
+      </a>
       <a href="https://www.blizzard.com/ko-kr">
               <img src="https://img.shields.io/badge/Battle.net-148EFF?style=flat&logo=Micro.blog&logoColor=white" />
       </a>
