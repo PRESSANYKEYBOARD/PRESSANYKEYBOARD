@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
       <br>
       <br>
-      <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Linux&logoColor=white" />
+      to be continued... <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Linux&logoColor=white" />
 </div>
 <br>
 <div align=center>
