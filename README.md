@@ -1,6 +1,6 @@
 <div align=center>
 	<img src="https://user-images.githubusercontent.com/121652394/222773472-1dcda0a4-1c08-47cc-8dde-6ac811e586d1.JPG">
-	2019.07.04 
+	2019.07.04. 
 	<br>大宮 鉄道博物館</br>
 	東北新幹線 E5系 はやぶさ
 </div>
