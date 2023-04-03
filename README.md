@@ -1,8 +1,8 @@
 <div align=center>
-	<img src="https://user-images.githubusercontent.com/121652394/222773472-1dcda0a4-1c08-47cc-8dde-6ac811e586d1.JPG">
-	2019.07.04. 
-	<br>大宮 鉄道博物館</br>
-	東北新幹線 E5系 はやぶさ
+	<img src="https://user-images.githubusercontent.com/121652394/229535605-af49ff17-1dc0-4d30-ba61-41f946f5e0bd.JPG">
+	2019.07.08. 
+	<br>京急久浜線 三浦海岸駅 (KK-71)
+	<br><br>ワンピース x 京急電鉄コラボレーション
 </div>
 <br>
 <div align=center>
