@@ -1,7 +1,7 @@
 <div align=center>
 	<img src="https://user-images.githubusercontent.com/121652394/229535605-af49ff17-1dc0-4d30-ba61-41f946f5e0bd.JPG">
 	2019.07.08. 
-	<br>京急久浜線 三浦海岸駅 (KK-71)
+	<br>京急久里浜線 三浦海岸駅 (KK-71)
 	<br><br>ワンピース x 京急電鉄コラボレーション
 </div>
 <br>
