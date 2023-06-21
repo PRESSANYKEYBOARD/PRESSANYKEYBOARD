@@ -2,7 +2,7 @@
 	<img src="https://github.com/PRESSANYKEYBOARD/PRESSANYKEYBOARD/assets/121652394/c91558d2-261f-4656-8bcc-23ddc81670ed">
 	2019.07.05. 
 	<br>函館山ロープウェイ 山麓 ~ 山頂
-	<br><br>
+	<br><br> 
 </div>
 <br>
 <div align=center>
