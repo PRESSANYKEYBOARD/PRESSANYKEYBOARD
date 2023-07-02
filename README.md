@@ -1,8 +1,9 @@
 <div align=center>
-	<img src="https://github.com/PRESSANYKEYBOARD/PRESSANYKEYBOARD/assets/121652394/c91558d2-261f-4656-8bcc-23ddc81670ed">
+	<img src="https://github.com/PRESSANYKEYBOARD/PRESSANYKEYBOARD/assets/121652394/d73996ed-16db-423d-b4df-4da918d02eb2">
 	2019.07.05. 
-	<br>函館山ロープウェイ 山麓 ~ 山頂
-	<br><br>
+	<br>東京駅
+	<br>新幹線E5系電車
+	<br><br>東北 · 北海道新幹線 <br>はやぶさ1号 新函館北斗行き
 </div>
 <br>
 <div align=center>
