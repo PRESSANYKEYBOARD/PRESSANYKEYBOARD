@@ -4,7 +4,7 @@
 	<br>東京駅
 	<br>新幹線E5系電車
 	<br><br>東北 · 北海道新幹線 <br>はやぶさ1号 新函館北斗行き 
-</div>
+</div> 
 <br>
 <div align=center>
       <img src=https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MADE%20IN%20DREAM&fontSize=75 /> 
