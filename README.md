@@ -2,7 +2,7 @@
 	<img src="https://github.com/PRESSANYKEYBOARD/PRESSANYKEYBOARD/assets/121652394/d73996ed-16db-423d-b4df-4da918d02eb2">
 	2019.07.05. 
 	<br>東京駅
-	<br>新幹線 E5系 電車 
+	<br>新幹線 E5系 電車
 	<br><br>東北 · 北海道新幹線 <br>はやぶさ1号 新函館北斗行き
 </div>  
 <br>
