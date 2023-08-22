@@ -1,9 +1,8 @@
 <div align=center>
-	<img src="https://github.com/PRESSANYKEYBOARD/PRESSANYKEYBOARD/assets/121652394/d73996ed-16db-423d-b4df-4da918d02eb2">
-	2019.07.05. 
-	<br>東京駅 
-	<br>新幹線E5系電車 
-	<br><br>東北 · 北海道新幹線 <br>はやぶさ1号 新函館北斗行き 
+	<img src="https://github.com/PRESSANYKEYBOARD/PRESSANYKEYBOARD/assets/121652394/1e0de9e5-3824-43b6-9f72-8e523ab82caa">
+	2019.07.04.<br>
+	<br>JR東日本 山手線 神田駅 
+	<br>E235系電車
 </div>
 <br> 
 <div align=center>
