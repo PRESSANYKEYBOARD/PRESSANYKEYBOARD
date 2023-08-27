@@ -4,7 +4,7 @@
 	<br>山手線 神田駅 
 	<br>E235系電車
 </div>
-<br>  
+<br>   
 <div align=center>
       <img src=https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MADE%20IN%20DREAM&fontSize=75 /> 
       <img src=https://cldup.com/dTxpPi9lDf.thumb.png />
