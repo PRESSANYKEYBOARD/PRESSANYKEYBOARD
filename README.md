@@ -2,7 +2,7 @@
 	<img src="https://github.com/PRESSANYKEYBOARD/PRESSANYKEYBOARD/assets/121652394/1e0de9e5-3824-43b6-9f72-8e523ab82caa">
 	2019.07.04.<br>
 	<br>山手線 神田駅  
-	<br>E235系電車 
+	<br>E235系電車  
 </div>
 <br>   
 <div align=center>
