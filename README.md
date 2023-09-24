@@ -1,6 +1,5 @@
 <div align=center>
 
-
 ![header](https://github.com/PRESSANYKEYBOARD/PRESSANYKEYBOARD/assets/121652394/1e0de9e5-3824-43b6-9f72-8e523ab82caa)
 
 山手線 神田駅  
@@ -9,6 +8,8 @@ E235系電車
 </div>
 
 ## 🌱 Study 🌱
+
+---
 
 <div align="center">
 
@@ -35,6 +36,8 @@ to be continued... ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-th
 
 ## 🛠 Tools 🛠
 
+---
+
 <div align=center>
 
 ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white)
@@ -49,6 +52,8 @@ to be continued... ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-th
 
 ## 💬 Social 💬
 
+---
+
 <div align=center>
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://www.discord.com/users/JG_lipsilja#3562)
@@ -57,23 +62,20 @@ to be continued... ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-th
 
 </div>
 
-<!--
-## ⚡ Game ⚡
-
-<div align=center>
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/tjchswkd)
-<!-- More game platforms -->
-
-</div>
-
-
 ## Portfolio
-
-*Coming soon...*
 
 ---
 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRESSANYKEYBOARD&layout=compact">
-      <img src="https://github-readme-stats.vercel.app/api?username=PRESSANYKEYBOARD&show_icons=true">
+2023.04.17 ~ 2023.05.01
+<a href="https://github.com/PRESSANYKEYBOARD/Mini_Refac"> 한걸음 </a>
+
+2023.06.05 ~ 2023.06.30
+<a href="https://github.com/ksqrt/carrotMarket"> 중고거래 플랫폼 비트마켓 </a>
+
+</div>
+
+<div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRESSANYKEYBOARD&layout=compact" width=41%>
+      <img src="https://github-readme-stats.vercel.app/api?username=PRESSANYKEYBOARD&show_icons=true" width=42%>
+</div>
 
