@@ -1,3 +1,7 @@
+<div aligh=center>
+      <img src=https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MADE%20IN%20DREAM&fontSize=75 /> 
+</div>
+
 <div align=center>
 
 ![header](https://github.com/PRESSANYKEYBOARD/PRESSANYKEYBOARD/assets/121652394/1e0de9e5-3824-43b6-9f72-8e523ab82caa)
