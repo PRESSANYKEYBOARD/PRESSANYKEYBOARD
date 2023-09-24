@@ -71,10 +71,10 @@ to be continued... ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-th
 
 ---
 
-2023.04.17 ~ 2023.05.01
+2023.04.17 ~ 2023.05.01.
 <a href="https://github.com/PRESSANYKEYBOARD/Mini_Refac"> 한걸음 </a>
 
-2023.06.05 ~ 2023.06.30
+2023.06.05 ~ 2023.07.02.
 <a href="https://github.com/ksqrt/carrotMarket"> 중고거래 플랫폼 비트마켓 </a>
 
 </div>
