@@ -6,7 +6,7 @@
 
 ![header](https://github.com/PRESSANYKEYBOARD/PRESSANYKEYBOARD/assets/121652394/b819e7d7-899b-4ca0-b8d1-de7ec44ec635)
 
-2023.08.31. JR東海 東京駅<br><br>
+2023.08.31.<br> JR東海 東京駅<br><br>
 新幹線N700S系電車<br>
 東海道·山陽新幹線 のぞみ7号 東京 → 博多<br>
 
